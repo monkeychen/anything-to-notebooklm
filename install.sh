@@ -46,7 +46,7 @@ if [ -d "$MCP_DIR" ]; then
     echo -e "${GREEN}✅ MCP 服务器已存在${NC}"
 else
     echo "正在克隆 wexin-read-mcp..."
-    git clone https://github.com/Bwkyd/wexin-read-mcp.git "$MCP_DIR"
+    git clone https://github.com/monkeychen/wexin-read-mcp.git "$MCP_DIR"
     echo -e "${GREEN}✅ MCP 服务器克隆完成${NC}"
 fi
 
@@ -91,13 +91,13 @@ if command -v notebooklm &> /dev/null; then
     echo -e "${GREEN}✅ NotebookLM CLI 已安装 ($NOTEBOOKLM_VERSION)${NC}"
 else
     echo "正在安装 notebooklm-py..."
-    pip3 install git+https://github.com/teng-lin/notebooklm-py.git -q
+    pip3 install git+https://github.com/monkeychen/notebooklm-py.git
 
     if command -v notebooklm &> /dev/null; then
         echo -e "${GREEN}✅ NotebookLM CLI 安装完成${NC}"
     else
         echo -e "${RED}❌ NotebookLM CLI 安装失败${NC}"
-        echo "请手动安装：pip3 install git+https://github.com/teng-lin/notebooklm-py.git"
+        echo "请手动安装：pip3 install git+https://github.com/monkeychen/notebooklm-py.git"
         exit 1
     fi
 fi
