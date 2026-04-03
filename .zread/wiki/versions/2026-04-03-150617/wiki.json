@@ -1,0 +1,211 @@
+{
+  "id": "2026-04-03-150617",
+  "generated_at": "2026-04-03T07:06:17.758Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu-duo-yuan-nei-rong-dao-notebooklm-de-zhi-neng-zhuan-huan-skill",
+      "title": "项目概述：多源内容到 NotebookLM 的智能转换 Skill",
+      "file": "1-xiang-mu-gai-shu-duo-yuan-nei-rong-dao-notebooklm-de-zhi-neng-zhuan-huan-skill.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-an-zhuang-yu-huan-jing-pei-zhi",
+      "title": "快速安装与环境配置",
+      "file": "2-kuai-su-an-zhuang-yu-huan-jing-pei-zhi.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-notebooklm-ren-zheng-yu-shou-ci-shi-yong",
+      "title": "NotebookLM 认证与首次使用",
+      "file": "3-notebooklm-ren-zheng-yu-shou-ci-shi-yong.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-zi-ran-yu-yan-hong-fa-fang-shi-yu-shi-yong-shi-li",
+      "title": "自然语言触发方式与使用示例",
+      "file": "4-zi-ran-yu-yan-hong-fa-fang-shi-yu-shi-yong-shi-li.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-zheng-ti-ji-zhu-jia-gou-cong-zi-ran-yu-yan-dao-wen-jian-sheng-cheng-de-shu-ju-liu",
+      "title": "整体技术架构：从自然语言到文件生成的数据流",
+      "file": "5-zheng-ti-ji-zhu-jia-gou-cong-zi-ran-yu-yan-dao-wen-jian-sheng-cheng-de-shu-ju-liu.md",
+      "section": "深入解析",
+      "group": "核心架构与工作流",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-nei-rong-yuan-zhi-neng-shi-bie-url-yu-wen-jian-lei-xing-zi-dong-pan-duan-ji-zhi",
+      "title": "内容源智能识别：URL 与文件类型自动判断机制",
+      "file": "6-nei-rong-yuan-zhi-neng-shi-bie-url-yu-wen-jian-lei-xing-zi-dong-pan-duan-ji-zhi.md",
+      "section": "深入解析",
+      "group": "核心架构与工作流",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-nei-rong-huo-qu-yu-zhuan-huan-mcp-zhua-qu-markitdown-zhuan-huan-yu-zhi-jie-chuan-di",
+      "title": "内容获取与转换：MCP 抓取、markitdown 转换与直接传递",
+      "file": "7-nei-rong-huo-qu-yu-zhuan-huan-mcp-zhua-qu-markitdown-zhuan-huan-yu-zhi-jie-chuan-di.md",
+      "section": "深入解析",
+      "group": "核心架构与工作流",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-notebooklm-shang-chuan-yu-nei-rong-sheng-cheng-liu-cheng",
+      "title": "NotebookLM 上传与内容生成流程",
+      "file": "8-notebooklm-shang-chuan-yu-nei-rong-sheng-cheng-liu-cheng.md",
+      "section": "深入解析",
+      "group": "核心架构与工作流",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-wei-xin-gong-zhong-hao-wen-zhang-mcp-fu-wu-qi-zhua-qu-yu-fan-pa-chong-rao-guo",
+      "title": "微信公众号文章：MCP 服务器抓取与反爬虫绕过",
+      "file": "9-wei-xin-gong-zhong-hao-wen-zhang-mcp-fu-wu-qi-zhua-qu-yu-fan-pa-chong-rao-guo.md",
+      "section": "深入解析",
+      "group": "支持的 15 种内容源详解",
+      "level": "Beginner"
+    },
+    {
+      "slug": "10-wang-ye-yu-youtube-shi-pin-url-zhi-jie-chuan-di-chu-li",
+      "title": "网页与 YouTube 视频：URL 直接传递处理",
+      "file": "10-wang-ye-yu-youtube-shi-pin-url-zhi-jie-chuan-di-chu-li.md",
+      "section": "深入解析",
+      "group": "支持的 15 种内容源详解",
+      "level": "Beginner"
+    },
+    {
+      "slug": "11-office-yu-dian-zi-shu-wen-dang-markitdown-ge-shi-zhuan-huan-lian-lu",
+      "title": "Office 与电子书文档：markitdown 格式转换链路",
+      "file": "11-office-yu-dian-zi-shu-wen-dang-markitdown-ge-shi-zhuan-huan-lian-lu.md",
+      "section": "深入解析",
+      "group": "支持的 15 种内容源详解",
+      "level": "Beginner"
+    },
+    {
+      "slug": "12-tu-pian-ocr-yin-pin-zhuan-lu-yu-jie-gou-hua-shu-ju-chu-li",
+      "title": "图片 OCR、音频转录与结构化数据处理",
+      "file": "12-tu-pian-ocr-yin-pin-zhuan-lu-yu-jie-gou-hua-shu-ju-chu-li.md",
+      "section": "深入解析",
+      "group": "支持的 15 种内容源详解",
+      "level": "Beginner"
+    },
+    {
+      "slug": "13-zip-ya-suo-bao-pi-liang-jie-ya-yu-sou-suo-guan-jian-ci-hui-zong",
+      "title": "ZIP 压缩包批量解压与搜索关键词汇总",
+      "file": "13-zip-ya-suo-bao-pi-liang-jie-ya-yu-sou-suo-guan-jian-ci-hui-zong.md",
+      "section": "深入解析",
+      "group": "支持的 15 种内容源详解",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-zi-ran-yu-yan-yi-tu-shi-bie-bo-ke-ppt-si-wei-dao-tu-quiz-deng-hong-fa-ci",
+      "title": "自然语言意图识别：播客、PPT、思维导图、Quiz 等触发词",
+      "file": "14-zi-ran-yu-yan-yi-tu-shi-bie-bo-ke-ppt-si-wei-dao-tu-quiz-deng-hong-fa-ci.md",
+      "section": "深入解析",
+      "group": "8 种输出格式与生成命令映射",
+      "level": "Beginner"
+    },
+    {
+      "slug": "15-sheng-cheng-ming-ling-yu-chan-wu-xia-zai-artifact-wait-yu-download-gong-zuo-liu",
+      "title": "生成命令与产物下载：artifact wait 与 download 工作流",
+      "file": "15-sheng-cheng-ming-ling-yu-chan-wu-xia-zai-artifact-wait-yu-download-gong-zuo-liu.md",
+      "section": "深入解析",
+      "group": "8 种输出格式与生成命令映射",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-install-sh-an-zhuang-liu-cheng-jie-xi-6-bu-zi-dong-hua-an-zhuang",
+      "title": "install.sh 安装流程解析：6 步自动化安装",
+      "file": "16-install-sh-an-zhuang-liu-cheng-jie-xi-6-bu-zi-dong-hua-an-zhuang.md",
+      "section": "深入解析",
+      "group": "依赖与安装脚本",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-requirements-txt-yi-lai-qing-dan-yu-ge-ku-zhi-ze",
+      "title": "requirements.txt 依赖清单与各库职责",
+      "file": "17-requirements-txt-yi-lai-qing-dan-yu-ge-ku-zhi-ze.md",
+      "section": "深入解析",
+      "group": "依赖与安装脚本",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-check_env-py-huan-jing-jian-cha-jiao-ben-9-xiang-jian-ce-luo-ji",
+      "title": "check_env.py 环境检查脚本：9 项检测逻辑",
+      "file": "18-check_env-py-huan-jing-jian-cha-jiao-ben-9-xiang-jian-ce-luo-ji.md",
+      "section": "深入解析",
+      "group": "依赖与安装脚本",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-package-sh-da-bao-fen-fa-jiao-ben",
+      "title": "package.sh 打包分发脚本",
+      "file": "19-package-sh-da-bao-fen-fa-jiao-ben.md",
+      "section": "深入解析",
+      "group": "依赖与安装脚本",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-claude-code-config-json-zhong-weixin-reader-mcp-pei-zhi-fang-fa",
+      "title": "Claude Code config.json 中 weixin-reader MCP 配置方法",
+      "file": "20-claude-code-config-json-zhong-weixin-reader-mcp-pei-zhi-fang-fa.md",
+      "section": "深入解析",
+      "group": "MCP 服务器配置",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-wexin-read-mcp-fu-wu-qi-playwright-liu-lan-qi-mo-ni-yu-nei-rong-zhua-qu",
+      "title": "wexin-read-mcp 服务器：Playwright 浏览器模拟与内容抓取",
+      "file": "21-wexin-read-mcp-fu-wu-qi-playwright-liu-lan-qi-mo-ni-yu-nei-rong-zhua-qu.md",
+      "section": "深入解析",
+      "group": "MCP 服务器配置",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-duo-yi-tu-chu-li-ci-xing-sheng-cheng-duo-chong-ge-shi",
+      "title": "多意图处理：一次性生成多种格式",
+      "file": "22-duo-yi-tu-chu-li-ci-xing-sheng-cheng-duo-chong-ge-shi.md",
+      "section": "深入解析",
+      "group": "高级功能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-zi-ding-yi-notebook-zhi-ding-yi-you-bi-ji-ben-huo-tian-jia-zi-ding-yi-sheng-cheng-zhi-ling",
+      "title": "自定义 Notebook：指定已有笔记本或添加自定义生成指令",
+      "file": "23-zi-ding-yi-notebook-zhi-ding-yi-you-bi-ji-ben-huo-tian-jia-zi-ding-yi-sheng-cheng-zhi-ling.md",
+      "section": "深入解析",
+      "group": "高级功能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-duo-yuan-nei-rong-hun-he-zheng-he",
+      "title": "多源内容混合整合",
+      "file": "24-duo-yuan-nei-rong-hun-he-zheng-he.md",
+      "section": "深入解析",
+      "group": "高级功能",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-chang-jian-cuo-wu-yu-jie-jue-fang-an-url-ge-shi-ren-zheng-shi-bai-sheng-cheng-qia-zhu",
+      "title": "常见错误与解决方案：URL 格式、认证失败、生成卡住",
+      "file": "25-chang-jian-cuo-wu-yu-jie-jue-fang-an-url-ge-shi-ren-zheng-shi-bai-sheng-cheng-qia-zhu.md",
+      "section": "深入解析",
+      "group": "故障排查与注意事项",
+      "level": "Beginner"
+    },
+    {
+      "slug": "26-pin-lu-xian-zhi-nei-rong-chang-du-yue-shu-yu-wen-jian-qing-li-ce-lue",
+      "title": "频率限制、内容长度约束与文件清理策略",
+      "file": "26-pin-lu-xian-zhi-nei-rong-chang-du-yue-shu-yu-wen-jian-qing-li-ce-lue.md",
+      "section": "深入解析",
+      "group": "故障排查与注意事项",
+      "level": "Intermediate"
+    }
+  ]
+}
